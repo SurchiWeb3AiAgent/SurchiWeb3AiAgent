@@ -8,7 +8,7 @@ Surchi is an advanced AI-powered autonomous engine built on **Solana**, designed
 
 ---
 
-## 🧠 The Neural Sentinel Concept
+##  The Neural Sentinel Concept
 Unlike traditional static dashboards, Surchi operates as a **self-evolving intelligence layer**. It continuously ingests on-chain data, social sentiment, and liquidity flows to anticipate market movements before they materialize.
 
 ### Key Innovations:
@@ -18,7 +18,7 @@ Unlike traditional static dashboards, Surchi operates as a **self-evolving intel
 
 ---
 
-## 🏗 Modular Protocol Architecture
+##  Modular Protocol Architecture
 
 Surchi is built as a high-performance stack optimized for the Solana ecosystem:
 
@@ -31,7 +31,7 @@ Surchi is built as a high-performance stack optimized for the Solana ecosystem:
 
 ---
 
-## 💎 Tokenomics & Ecosystem ($SURCHI)
+##  Tokenomics & Ecosystem ($SURCHI)
 The **$SURCHI** token powers the network, incentivizing participation and unlocking premium AI capabilities within the decentralized intelligence ecosystem.
 
 * **Fixed Supply:** 19,897,905 $SURCHI
@@ -40,7 +40,7 @@ The **$SURCHI** token powers the network, incentivizing participation and unlock
 
 ---
 
-## 🛠 For Developers
+##  For Developers
 Developers can integrate with the Surchi stack to build:
 * Intelligent dApps
 * Automated Liquidity Vaults
@@ -48,7 +48,7 @@ Developers can integrate with the Surchi stack to build:
 
 ---
 
-## 🌐 Connect with Surchi
+##  Connect with Surchi
 * **Website:** [www.surchi.xyz](http://www.surchi.xyz)
 * **Email:** [surchicoin@gmail.com](mailto:surchicoin@gmail.com)
 * **Location:** Global / Decentralized
