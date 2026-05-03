@@ -3,6 +3,7 @@
 ![Solana](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
 ![AI-Powered](https://img.shields.io/badge/Core-Autonomous_AI-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Lifecycle-2026--2027-orange?style=for-the-badge)
+[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
 
 Surchi is an advanced AI-powered autonomous engine built on **Solana**, designed to convert high-frequency, sub-second market telemetry into intelligent, real-time Web3 execution. By bridging raw blockchain data with neural sentiment analysis, Surchi evolves Web3 from a reactive environment into a proactive, sovereign intelligence layer.
 
