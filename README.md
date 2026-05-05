@@ -1,6 +1,7 @@
 
 #  SURCHI the Autonomous Web3 Intelligence & Execution Protocol
 
+![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
 [![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
