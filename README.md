@@ -1,5 +1,5 @@
 
-# 🚀 SURCHI: The Autonomous Web3 Intelligence & Execution Protocol
+#  SURCHI the Autonomous Web3 Intelligence & Execution Protocol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
