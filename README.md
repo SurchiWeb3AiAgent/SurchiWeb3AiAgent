@@ -140,8 +140,8 @@ We welcome developers, AI engineers, and researchers.
 **[Website](https://surchi.xyz)** [Twitter/X](https://x.com/surchicoin) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w) •
 [Facebook](https://facebook.com/surchi) • 
 [Whatsapp](https://whatsapp.com/channel/0029VbCM41CISTkMkuao4Y0Z) •
-[Email] (surchicoin@gmail.com)
-* **Location:** Global / Decentralized
+[Email](surchicoin@gmail.com)•
+* **ion:** Glo:** Global / Decentralized
 
 > **Vision:** To transform Web3 into a proactive system where data is understood, anticipated, and executed upon in real time.
 ---
