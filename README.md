@@ -138,7 +138,7 @@ We welcome developers, AI engineers, and researchers.
 
 ##  Connect with Surchi
 **[Website](https://surchi.xyz)** [Twitter/X](https://x.com/surchicoin) • [Discord](https://discord.gg/DtFYCzCUk) • [Instagram](https://www.instagram.com/surchicoin?igsh=YXlhY2VkZ2lxam9w) •
-[Facebook](https://facebook.com/surchi) • 
+[Facebook](https://www.facebook.com/profile.php?id=61556383735432) • 
 [Whatsapp](https://whatsapp.com/channel/0029VbCM41CISTkMkuao4Y0Z) •
 [Email](surchicoin@gmail.com)•
 * **ion:** Glo:** Global / Decentralized
