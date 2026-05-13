@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
 [![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
-[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
+[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/surchiai)
 
 
 **SURCHI** is an advanced Web3 AI protocol engineered to transform how users interact with decentralized finance, crypto markets, and blockchain ecosystems. It is a self-evolving intelligence layer that observes, interprets, and executes decisions in real time.
