@@ -1,15 +1,4 @@
-
-#  SURCHI the Autonomous Web3 Intelligence & Execution Protocol
-
-![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
-![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
-[![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
-[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/surchiai)
-
 ---
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+Surchiai+e-Lab" alt="Typing SVG" />
@@ -28,6 +17,18 @@
 
   <img src="https://count.getloli.com/get/@HaroldMate1?theme=minecraft" alt="Minecraft Counter" />
 </div>
+
+
+---
+
+#  SURCHI the Autonomous Web3 Intelligence & Execution Protocol
+
+![Network](https://img.shields.io/badge/Network-Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white)
+![Status](https://img.shields.io/badge/Phase-2026_Foundation-orange?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
+[![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
+[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/surchiai)
 
 ---
 
