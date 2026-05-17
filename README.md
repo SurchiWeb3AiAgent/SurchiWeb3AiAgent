@@ -29,7 +29,7 @@
   <img src="https://count.getloli.com/get/@HaroldMate1?theme=minecraft" alt="Minecraft Counter" />
 </div>
 
-
+---
 
 **SURCHI** is an advanced Web3 AI protocol engineered to transform how users interact with decentralized finance, crypto markets, and blockchain ecosystems. It is a self-evolving intelligence layer that observes, interprets, and executes decisions in real time.
 
